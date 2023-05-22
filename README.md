@@ -12,6 +12,7 @@ Ping me on twitter: <a href="https://twitter.com/whyshankar">@whyshankar</a>, if
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=f0dc4e" width=150 />
  <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=#61dbfb" width=100 />
+ <img alt="React-Native" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=#61dbfb" width=100 />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=#7749bd" width=102/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=#449f43" width=130 />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=#74aa63"  width=112/>
