@@ -1,4 +1,4 @@
-<h1>Hey, 👋 I'm Shankar Panchal</h1>
+<h1>Hey, 👋 I'm Shankar Panchal</h1> <img src="https://komarev.com/ghpvc/?username=why-shankar&style=flat-square&color=black" alt=""/>
 
 <p>Hi, I'm a <b>Full-stack web Developer </b> currently working in blockchain space.</p>
 
