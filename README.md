@@ -5,7 +5,7 @@
 Ping me on twitter: <a href="https://twitter.com/indi_coder">@indi_coder</a>, if you want to talk about web3, tech, or anything else.
 
  <h3>Current Location</h3>
- <p> Ch. Sambhajinagar (Aurangabad), India</p>
+ <p> Ch. Sambhajinagar (Aurangabad), Maharashtra, India</p>
 
 <h3>Things I code With</h3>
 
