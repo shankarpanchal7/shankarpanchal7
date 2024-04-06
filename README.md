@@ -1,4 +1,4 @@
-<h1>Hey, 👋 I'm Shankar Langote</h1> 
+<h1>Hey, 👋 I'm Shankar Panchal</h1> 
 
 <p>Hi, I'm a <b>Full-stack web Developer </b> currently working in blockchain space.</p>
 
