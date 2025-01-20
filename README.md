@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I am a seasoned **Full-Stack Developer** with over
 ### **Enterprise Resource Planning (ERP) Systems**
 - **Freight Platform**: Delivered client-specific customizations and integrated systems using CargoWise and OTM.
 - **Shipment Tracker**: Designed a real-time shipment tracking system across air, sea, and land.
-- **Instasync**: Built a document automation solution with Azure AI Document Intelligence achieving 99% accuracy.
+- **Document Automation**: Built a document automation solution with Azure AI Document Intelligence achieving 99% accuracy.
 - **Institute Management System**: Developed mobile and web solutions with modules for exams, attendance, and more.
 
 ### **E-commerce & Blockchain**
