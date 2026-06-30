@@ -1,4 +1,4 @@
-# Shankar Langote - Senior Full-Stack Developer
+# Shankar Langote - Senior Full-Stack Engineer
 
 Welcome to my GitHub profile! I am a seasoned **Full-Stack Developer** with over five years of professional experience in delivering high-quality, scalable solutions for web and mobile applications. My expertise lies in JavaScript, TypeScript, and modern frameworks and tools that drive innovation and efficiency.
 
